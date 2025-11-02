@@ -20,3 +20,6 @@ It includes a clean Bootstrap interface, copy button, and text-to-speech support
 2️⃣ Create a virtual environment:
 ```bash
 python -m venv venv
+venv\Scripts\activate
+pip install -r requirements.txt
+python app.py
